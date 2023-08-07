@@ -4,7 +4,7 @@
     const customerText = document.querySelector('#customer-text')
 
     const btn = document.querySelectorAll('.btn')
-    let index = 0
+    let index = 0;
     const customers = []
 
     function Customer(img, name, text){
