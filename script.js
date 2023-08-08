@@ -22,15 +22,15 @@
 
     createCustomer( 0,'Balvant', 'There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
 
-    createCustomer( 1,'Vikram','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
+    createCustomer( 1,'Vikram','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment')
 
-    createCustomer( 2,'Aditya','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
+    createCustomer( 2,'Aditya','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
     
-    createCustomer( 3,'Ayush','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
+    createCustomer( 3,'Ayush','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
 
-    createCustomer( 4,'Gaurav','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
+    createCustomer( 4,'Gaurav','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
 
-    createCustomer( 5,'Vikash','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment. There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
+    createCustomer( 5,'Vikash','There is something that South Africa does so right in hosting multi-team tournaments. Be it the facilities, the colour, the entertainment' )
 
     btn.forEach(function(button) {
         button.addEventListener('click', function(e) {
